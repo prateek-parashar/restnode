@@ -1,0 +1,26 @@
+{
+    "name": "restnode",
+    "version": "1.0.0",
+    "description": "REST apis with node",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/prateek-parashar/restnode.git"
+    },
+    "author": "Prateek Parashar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/prateek-parashar/restnode/issues"
+    },
+    "homepage": "https://github.com/prateek-parashar/restnode#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
